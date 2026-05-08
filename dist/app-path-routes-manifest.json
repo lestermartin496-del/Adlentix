@@ -1,0 +1,19 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/auth/page": "/auth",
+  "/dashboard/alerts/page": "/dashboard/alerts",
+  "/dashboard/brief/page": "/dashboard/brief",
+  "/dashboard/campaigns/page": "/dashboard/campaigns",
+  "/dashboard/connect/page": "/dashboard/connect",
+  "/dashboard/creative/page": "/dashboard/creative",
+  "/dashboard/insights/page": "/dashboard/insights",
+  "/dashboard/page": "/dashboard",
+  "/dashboard/reports/page": "/dashboard/reports",
+  "/dashboard/settings/page": "/dashboard/settings",
+  "/favicon.ico/route": "/favicon.ico",
+  "/page": "/",
+  "/pricing/page": "/pricing",
+  "/privacy/page": "/privacy",
+  "/terms/page": "/terms"
+}
